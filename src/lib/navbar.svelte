@@ -3,7 +3,7 @@
   <div class="container flex flex-wrap items-center justify-between mx-auto">
     <a href="index.html" class="flex items-center">
         
-        <span class="self-center text-xl font-bold tracking-tight whitespace-nowrap">FlashQuiz</span>
+        <span class="self-center hover:scale-110  duration-100 text-xl font-bold tracking-tight whitespace-nowrap">FlashQuiz</span>
     </a>
     
     <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
@@ -14,17 +14,17 @@
     <div class="hidden w-full md:block md:w-auto" id="navbar-default">
       <ul class="flex flex-col p-4 mt-4 border border-gray-100 shadow-2xl rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-yellow-200 md:dark:bg-yellow-200 dark:border-gray-700">
         <li class="flex ">
-          <a href="index.html" class="block py-2 pl-3 pr-4 hover:font-bold text-black rounded hover:bg-gray-700 md:hover:bg-transparent md:border-0 md:p-0 md:dark:hover:bg-transparent" aria-current="page">Home</a>
+          <a href="index.html" class="block py-2 pl-3 pr-4 text-black rounded  hover:font-bold hover:scale-105  duration-100 md:hover:bg-transparent md:border-0 md:p-0 md:dark:hover:bg-transparent" aria-current="page">Home</a>
         </li>
         <li>
-          <a href="category.html" class="block py-2 pl-3 pr-4 text-black rounded hover:font-bold hover:bg-gray-700 md:hover:bg-transparent md:border-0 md:p-0 md:dark:hover:bg-transparent" >Categories</a>
+          <a href="category.html" class="block py-2 pl-3 pr-4 text-black rounded  hover:font-bold hover:scale-105  duration-100 md:hover:bg-transparent md:border-0 md:p-0 md:dark:hover:bg-transparent" >Categories</a>
         </li>
         <li>
-          <a href="leaderboard.html" class="block py-2 pl-3 pr-4 text-black rounded hover:font-bold hover:bg-gray-700 md:hover:bg-transparent md:border-0 md:p-0 md:dark:hover:bg-transparent" >Leaderboard</a>
+          <a href="leaderboard.html" class="block py-2 pl-3 pr-4 text-black rounded  hover:font-bold hover:scale-105  duration-100 md:hover:bg-transparent md:border-0 md:p-0 md:dark:hover:bg-transparent" >Leaderboard</a>
         </li>
         
         <li >
-          <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100   md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-black md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
+          <a href="#" class="block py-2 pl-3 pr-4 text-black rounded  hover:font-bold hover:scale-105  duration-100 md:hover:bg-transparent md:border-0 md:p-0 md:dark:hover:bg-transparent">Contact</a>
         </li>
       </ul>
     </div>
